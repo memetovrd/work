@@ -7,4 +7,4 @@
   б) black - форматтер, для красивостей
 2. Запуск Pytest: $pytest file_name.py
 3. Запуск Black: $black путь_к_файлу
-4. Установка дополнительных библиотек: >pip install -r requirements.tx
+4. Установка дополнительных библиотек: >pip install -r requirements.txt
